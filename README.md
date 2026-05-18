@@ -1,2 +1,2 @@
-# my-c-projects
+# c-practice
 C Programming practice files
